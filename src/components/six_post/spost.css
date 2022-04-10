@@ -1,0 +1,23 @@
+
+.postTitles {
+    font-family: "Josefin Sans", Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 800;
+    margin-top: 5px;
+    cursor: pointer; 
+}
+.postDate {
+    margin-left: 150px;  
+    font-family: "Lora", serif;
+    font-style: italic;
+    font-size: 13px;
+    font-weight: 400;
+    color: #999999;  
+  }
+.postTitles {
+    margin-left: 150px;
+    width: 300px;
+    font-size: 150%;
+
+    border-bottom: solid 1px #a7a4a4;    
+}  

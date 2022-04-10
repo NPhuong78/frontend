@@ -1,0 +1,35 @@
+*{
+    font-family: 'Nunito', sans-serif;
+    margin:0; padding:0;
+    box-sizing: border-box;
+    outline: none; border:none;
+    text-decoration: none;
+   
+  }
+
+.departments{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 30vh;
+    align-items: center;
+}
+
+.departments .title {
+    text-align: center;
+  font-size: 3.5rem;
+  padding:1rem;
+  color:rgb(102, 102, 102);
+}
+
+.col{
+    margin: 50px;
+}
+.title{
+    font-family: "Varela Round", Arial, Helvetica, sans-serif;
+}
+.small-text{
+    font-family: "Varela Round", Arial, Helvetica, sans-serif;
+    margin-top: 20px;  
+    font-size: 200%;
+}
